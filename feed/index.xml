@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>My WordPress</title>
+	<title></title>
 	<atom:link href="https://nguyenducson0609.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenducson0609.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Wed, 24 Aug 2022 09:09:26 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
