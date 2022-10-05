@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Womensware</title>
+	<atom:link href="https://nguyenducson0609.github.io/mywordpress/tu-khoa-san-pham/womensware/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenducson0609.github.io/mywordpress</link>
+	<description></description>
+	<lastBuildDate>Wed, 05 Oct 2022 03:01:13 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Women’s Full Zip Jacket</title>
+		<link>https://nguyenducson0609.github.io/mywordpress/san-pham/womens-full-zip-jacket/</link>
+					<comments>https://nguyenducson0609.github.io/mywordpress/san-pham/womens-full-zip-jacket/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyễn Đức Sơn]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 03:01:13 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyenducson0609.github.io/mywordpress/?post_type=product&#038;p=269</guid>
+
+					<description><![CDATA[<strong>75%</strong> Polyester, <strong>19%</strong> Modal, <strong>6%</strong> Elastane
+4-way stretch material moves better in every direction]]></description>
+										<content:encoded><![CDATA[<h3><strong>SportSware Designed To Move Sport Motion Logo Tee</strong></h3>
+<h4>A Tee For Versatile Everyday Comfort.</h4>
+<p>Get the fit and performance of a workout tee with style that belongs in your daily-wear wardrobe in this adidas t-shirt. It sits comfortably as you bend, stretch and move through your day. You’ll stay feeling dry and fresh, from a training session in the gym to whatever comes next, thanks to moisture-absorbing AEROREADY.</p>
+<p>This product is made with Primegreen, a series of high-performance recycled materials.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenducson0609.github.io/mywordpress/san-pham/womens-full-zip-jacket/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
